@@ -1,0 +1,15 @@
+body{
+    background-color: aliceblue;
+    padding: 0px;
+}
+.head{
+ color: red;
+}
+.post{
+    background-color: aquamarine;
+}
+.user{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+padding-left: 5px;
+padding-bottom: 5px;
+}
